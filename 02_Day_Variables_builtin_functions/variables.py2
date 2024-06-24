@@ -1,1 +1,13 @@
-
+# 'day 2: 30 days of python programming'
+first_name = 'Henry'
+last_name = 'Gold'
+full_name = 'Henry Gold'
+country = 'USA'
+city = 'Michigan'
+age = '75'
+year = '2024'
+is_marrried = 'false' 
+is_light_on = 'true' 
+first_name, last_name, full_name = 'Henry', 'Gold', 'Henry Gold'
+print(type('Henry Gold'))
+print(type(75))
